@@ -1,0 +1,3 @@
+# android_get_test
+HTTPURLConnectionを利用したGETメソッドのテストです。
+TokenやURLは一時的なものです。このままのTokenやURLのままで使用しないで下さい。
